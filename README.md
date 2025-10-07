@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="[https://readme-stats-git-main-cherrytreebcks-projects.vercel.app/api?username=cherrytreebck](https://readme-stats-rose-mu.vercel.app/api?username=cherrytreebck)" />
+<img src="https://readme-stats-rose-mu.vercel.app/api?username=cherrytreebck" />
+
 
 
 <!--
