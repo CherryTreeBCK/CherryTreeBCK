@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](readme-stats-git-main-cherrytreebcks-projects.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CherryTreeBCK/CherryTreeBCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
