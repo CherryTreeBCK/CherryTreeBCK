@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img src="https://readme-stats-rose-mu.vercel.app/api?username=cherrytreebck" />
+<img src="https://readme-stats-rose-mu.vercel.app/api/top-langs?username=cherrytreebck" />
 
 
 
